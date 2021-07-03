@@ -1,0 +1,12 @@
+div .status{
+    margin: 20px;
+    font-size: 24px;
+    text-align: center;
+    
+    
+}
+
+div .board-row{
+    display: flex;
+    flex-flow: row nowrap;
+}
